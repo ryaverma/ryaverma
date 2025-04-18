@@ -12,8 +12,6 @@
 - **Hackathons** – turning ideas into prototypes under pressure  
 - **Open-source projects** – contributing to real-world tools and learning from the community
 
-🚀 Always curious. Always building. Always learning.
-
 Feel free to connect or collaborate — I’m always open to exciting opportunities!
 
 ## 🌐 Socials:
