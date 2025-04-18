@@ -4,13 +4,13 @@
 🎓 Soon to begin my **Master’s in Computer Science**, I’m always eager to explore new challenges, dive into emerging technologies, and grow through collaboration and creativity.
 
 ### 🔍 What I'm currently focused on:
-- Diving deep into **Deep Learning**, with a growing interest in **Natural Language Processing (NLP)** 🌐
-- Strengthening my skills in **React** to build responsive, dynamic web applications ⚛️
-- Grokking **Algorithms** 🧠📚
+- Diving deep into **Deep Learning**, with a growing interest in **Natural Language Processing (NLP)**
+- Strengthening my skills in **React** to build responsive, dynamic web applications
+- Grokking **Algorithms**
 
 ### 🤝 I enjoy collaborating on:
-- **Hackathons** – turning ideas into prototypes under pressure ⏱️✨  
-- **Open-source projects** – contributing to real-world tools and learning from the community 🌍🛠️
+- **Hackathons** – turning ideas into prototypes under pressure  
+- **Open-source projects** – contributing to real-world tools and learning from the community
 
 🚀 Always curious. Always building. Always learning.
 
