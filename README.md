@@ -35,6 +35,13 @@ Feel free to connect or collaborate — I’m always open to exciting opportunit
 **Other:** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ryaverma&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br />
-![](https://nirzak-streak-stats.vercel.app/?user=ryaverma&theme=synthwave&hide_border=false) <br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryaverma&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ryaverma&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ryaverma&theme=synthwave&hide_border=false" />
+    </td>
+  </tr>
+</table>
