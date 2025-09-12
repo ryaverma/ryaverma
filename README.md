@@ -1,20 +1,20 @@
 # Hi there! 👋 Glad to have you here
 
-🌸 I'm Riya, a 22-year-old developer driven by a passion for building meaningful, real-world solutions through **Software Engineering** and **Data Science**. <br />
-🎓 Soon to begin my **Master’s in Computer Science**, I’m always eager to explore new challenges, dive into emerging technologies, and grow through collaboration and creativity.
+I'm Riya, a 22-year-old developer driven by a passion for building meaningful, real-world solutions through **Software Engineering** and **Data Science**. <br />
+Studying **Master of Science in Computer Science** at **University of Southern California**, I’m always eager to explore new challenges, dive into emerging technologies, and grow through collaboration and creativity.
 
-### 🔍 What I'm currently focused on:
-- Studying **Deep Learning**, with a growing interest in **Natural Language Processing (NLP)**
-- Strengthening my skills in **React** to build responsive, dynamic web applications
+### What I'm currently focused on:
+- Studying **Machine Learning for Data Science**, with a growing interest in **Applied Natural Language Processing**
+- Strengthening my skills in **React** and **Spring boot** to build responsive, dynamic web applications
 - Grokking **Algorithms**
 
-### 🤝 I enjoy collaborating on:
+### I enjoy collaborating on:
 - **Hackathons** – turning ideas into prototypes under pressure  
 - **Open-source projects** – contributing to real-world tools and learning from the community
 
 Feel free to connect or collaborate — I’m always open to exciting opportunities!
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryavrma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryaverma28@gmail.com) 
 
 ## 💻 Tech Stack:
