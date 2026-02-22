@@ -4,18 +4,15 @@ MS Computer Science @ USC | [LinkedIn](https://linkedin.com/in/ryavrma)
 
 Full-Stack Engineer | Applied AI/ML Systems
 
----
 Full-stack engineer specializing in applied AI/ML, intelligent workflow systems, and scalable backend architecture.
 
-I build production-grade systems that combine:
-
+I build production-grade systems that combine:  
 • Distributed services  
 • LLM-powered decision layers  
 • Graph + vector search  
 • Constraint optimization engines
 
 Focused on performance, system design, and measurable impact.
----
 
 # Tech Stack
 
@@ -27,8 +24,6 @@ Focused on performance, system design, and measurable impact.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
 
----
-
 ## Backend & Systems
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)](https://nodejs.org/)
@@ -37,16 +32,12 @@ Focused on performance, system design, and measurable impact.
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)](https://fastapi.tiangolo.com/)
 
----
-
 ## Frontend
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)](https://nextjs.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
----
 
 ## AI / ML Systems
 
@@ -57,8 +48,6 @@ Focused on performance, system design, and measurable impact.
 [![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)](https://www.langchain.com/langgraph)
 [![LLMs](https://img.shields.io/badge/Large%20Language%20Models-1f425f?style=for-the-badge)](https://en.wikipedia.org/wiki/Large_language_model)
 
----
-
 ## Cloud & DevOps
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)](https://aws.amazon.com/)
@@ -68,8 +57,6 @@ Focused on performance, system design, and measurable impact.
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge)](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
 
----
-
 ## Databases
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
@@ -78,5 +65,3 @@ Focused on performance, system design, and measurable impact.
 [![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge\&logo=neo4j\&logoColor=white)](https://neo4j.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)](https://supabase.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge\&logo=prisma\&logoColor=white)](https://www.prisma.io/)
-
----
