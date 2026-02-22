@@ -1,9 +1,6 @@
 # Riya Verma
 
-MS Computer Science @ USC | [LinkedIn](https://linkedin.com/in/ryavrma)
-
-Full-Stack Engineer | Applied AI/ML Systems
-
+MS Computer Science @ USC | Full-Stack Engineer | Applied AI/ML Systems  
 Full-stack engineer specializing in applied AI/ML, intelligent workflow systems, and scalable backend architecture.
 
 I build production-grade systems that combine:  
