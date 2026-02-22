@@ -9,14 +9,10 @@ Full-stack engineer specializing in applied AI/ML, intelligent workflow systems,
 
 I build production-grade systems that combine:
 
-• Distributed services
-
-• LLM-powered decision layers
-
-• Graph + vector search
-
+• Distributed services  
+• LLM-powered decision layers  
+• Graph + vector search  
 • Constraint optimization engines
-
 
 Focused on performance, system design, and measurable impact.
 ---
